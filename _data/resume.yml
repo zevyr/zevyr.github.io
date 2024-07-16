@@ -68,11 +68,24 @@ work:
 volunteer:
 education:
   - institution: "Central Bedfordshire College"
+    area:        "Computing"
+    studyType:   "Certificate"
+    startDate:   "2016-09-01"
+    endDate:     "2017-06-01"
+    courses:     ""
+  - institution: "Central Bedfordhsire College"
+    area:        "Motor Vehicle Service"
+    studyType:   "Certificate"
+    startDate:   "2017-09-01"
+    endDate:     "2018-06-01"
+    courses:     ""
+  - institution: "Central Bedfordshire College"
     area:        "Motor Vehicle Service, Diagnostics and Repair Level 3"
     studyType:   "Diploma"
-    startDate:   "2020"
-    endDate:     "2021"
-    courses:
+    startDate:   "2018-09-01"
+    endDate:     "2020-06-01"
+    courses:     ""
+
   - certificate: "Diploma of Motor Vehicle Service, Diagnostics and Repair"
     date:        "2021"
 projects:
